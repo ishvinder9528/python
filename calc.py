@@ -14,4 +14,4 @@ c=a/b
 print("the division is:",c)
 
 c=a%b
-print("the percent is:",c)
+print("the mod is:",c)
