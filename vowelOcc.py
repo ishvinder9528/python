@@ -41,5 +41,5 @@ for i in inp :
 
 cnt={"a":counta,"e":counte,"i":counti,"o":counto,"u":countu}
 A=set(a)
-print("TOTAL VOWEL FOUND:",A)
-print("TOTAL OCCURANCE OF EACH VOWEL:",cnt)
+print("VOWELS IN SENTENCES:",A)
+print("EACH VOWEL REPEATED AS:",cnt)
